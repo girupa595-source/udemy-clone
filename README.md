@@ -31,7 +31,7 @@ This is a personal learning project inspired by the design and concept of an onl
 
 ## Live Website
 
-[View the Website](YOUR-GITHUB-PAGES-LINK)
+[View the Website](https://girupa595-source.github.io/udemy-clone/)
 
 ## Author
 
